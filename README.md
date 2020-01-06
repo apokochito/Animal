@@ -1,3 +1,3 @@
-# animal
+# animal repository
 
 Java OOP training
